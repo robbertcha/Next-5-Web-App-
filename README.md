@@ -6,7 +6,7 @@ Codeigniter
 --------------
 1 - Create a database & upload the test.sql to phpmyadmin
 
-2 - Change the database details in repo/application/config/database.phpmyadmin
+2 - Change the database details in repo/application/config/database.php
 
 
 AngularJS
