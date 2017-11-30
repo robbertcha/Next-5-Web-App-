@@ -15,3 +15,9 @@ AngularJS
 
 2 - Update the Composer / bower again if it is still not working properly.
 
+
+Demo
+-------------
+http://robbertcha.000webhostapp.com
+
+This is a free server, so it is not really stable, please press F5 few more time if the website is not displayed properly, thanks.  

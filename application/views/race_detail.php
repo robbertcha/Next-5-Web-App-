@@ -29,7 +29,7 @@
 						Distance: {{assets.Distance}}
 					</div>
 					<div class="race_detail_time">
-						Race Status: <?php echo date("H:i A", time()); ?> 
+						Time: <?php echo date("H:i A", time()); ?> 
 					</div>
 					<div class="race_detail_status">
 						Race Status: {{assets.Status}}
