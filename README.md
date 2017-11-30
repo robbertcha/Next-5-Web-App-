@@ -20,4 +20,4 @@ Demo
 -------------
 http://robbertcha.000webhostapp.com
 
-This is a free server, so it is not really stable, please press F5 few more time if the website is not displayed properly, thanks.  
+This is a free server, so it is not very stable, please press F5 few more times if the website is not displayed properly, thanks.  
